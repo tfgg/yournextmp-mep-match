@@ -1,0 +1,268 @@
+{
+    "53d01037d8d463b739ed960a": {
+        "constituency_2015": "Cambridge", 
+        "name": "Rupert Read", 
+        "party_2015": "Green Party", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d01037d8d463b739ed960a", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4556"
+    }, 
+    "53d01038d8d463b739ed961f": {
+        "constituency_2015": "South Suffolk", 
+        "name": "Robert Lindsay", 
+        "party_2015": "Green Party", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d01038d8d463b739ed961f", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4648"
+    }, 
+    "53d0103dd8d463b739ed9644": {
+        "constituency_2015": "Rushcliffe", 
+        "name": "Richard Mallender", 
+        "party_2015": "Green Party", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d0103dd8d463b739ed9644", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/1924"
+    }, 
+    "53d0103ed8d463b739ed964e": {
+        "constituency_2015": "Liverpool, Wavertree", 
+        "name": "Peter Cranie", 
+        "party_2015": "Green Party", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d0103ed8d463b739ed964e", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4632"
+    }, 
+    "53d0103fd8d463b739ed9656": {
+        "constituency_2015": "Manchester, Gorton", 
+        "name": "Laura Bannister", 
+        "party_2015": "Green Party", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d0103fd8d463b739ed9656", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4635"
+    }, 
+    "53d0103fd8d463b739ed9658": {
+        "constituency_2015": "Workington", 
+        "name": "Jill Perry", 
+        "party_2015": "Green Party", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d0103fd8d463b739ed9658", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4641"
+    }, 
+    "53d01042d8d463b739ed9672": {
+        "constituency_2015": "Brent Central", 
+        "name": "Shahrar Ali", 
+        "party_2015": "Green Party", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d01042d8d463b739ed9672", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4870"
+    }, 
+    "53d01045d8d463b739ed9681": {
+        "constituency_2015": "Camberwell and Peckham", 
+        "name": "Amelia Womack", 
+        "party_2015": "Green Party", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d01045d8d463b739ed9681", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4808"
+    }, 
+    "53d01045d8d463b739ed9686": {
+        "constituency_2015": "Newport West", 
+        "name": "Pippa Bartolotti", 
+        "party_2015": "Green Party", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d01045d8d463b739ed9686", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/3762"
+    }, 
+    "53d0104bd8d463b739ed96be": {
+        "constituency_2015": "Canterbury", 
+        "name": "Stuart Jeffrey", 
+        "party_2015": "Green Party", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d0104bd8d463b739ed96be", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4850"
+    }, 
+    "547f80a76bacc73870cfdfdc": {
+        "constituency_2015": "Shipley", 
+        "name": "Kevin Warnes", 
+        "party_2015": "Green Party", 
+        "yournextmep_url": "http://pmocl.popit.mysociety.org/api/v0.1/persons/547f80a76bacc73870cfdfdc", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/1072"
+    }, 
+    "547f81516bacc73870cfe0b8": {
+        "constituency_2015": "Harrogate and Knaresborough", 
+        "name": "Shan Oakes", 
+        "party_2015": "Green Party", 
+        "yournextmep_url": "http://pmocl.popit.mysociety.org/api/v0.1/persons/547f81516bacc73870cfe0b8", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4986"
+    }, 
+    "547f85d26bacc73870cfea07": {
+        "constituency_2015": "Gedling", 
+        "name": "Carolyn Abbott", 
+        "party_2015": "Conservative Party", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f85d26bacc73870cfea07", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4900"
+    }, 
+    "547f85e06bacc73870cfea9f": {
+        "constituency_2015": "Edinburgh North and Leith", 
+        "name": "Iain McGill", 
+        "party_2015": "Conservative Party", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f85e06bacc73870cfea9f", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/524"
+    }, 
+    "547f86e06bacc73870cfed8c": {
+        "constituency_2015": "South Suffolk", 
+        "name": "Jane Basham", 
+        "party_2015": "Labour Party", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f86e06bacc73870cfed8c", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4431"
+    }, 
+    "547f86f96bacc73870cfeeaa": {
+        "constituency_2015": "Neath", 
+        "name": "Christina Rees", 
+        "party_2015": "Labour Party", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f86f96bacc73870cfeeaa", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4564"
+    }, 
+    "547f87106bacc73870cfeef8": {
+        "constituency_2015": "Sheffield Central", 
+        "name": "Joe Otten", 
+        "party_2015": "Liberal Democrats", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87106bacc73870cfeef8", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4897"
+    }, 
+    "547f87106bacc73870cfeefe": {
+        "constituency_2015": "Richmond (Yorks)", 
+        "name": "Chris Foote-Wood", 
+        "party_2015": "Liberal Democrats", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87106bacc73870cfeefe", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4032"
+    }, 
+    "547f87116bacc73870cfef09": {
+        "constituency_2015": "Leeds North East", 
+        "name": "Aqila Choudhry", 
+        "party_2015": "Liberal Democrats", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87116bacc73870cfef09", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/992"
+    }, 
+    "547f87186bacc73870cfef58": {
+        "constituency_2015": "Altrincham and Sale West", 
+        "name": "Jane Brophy", 
+        "party_2015": "Liberal Democrats", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87186bacc73870cfef58", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/1432"
+    }, 
+    "547f871e6bacc73870cfefa2": {
+        "constituency_2015": "Gordon", 
+        "name": "Christine Jardine", 
+        "party_2015": "Liberal Democrats", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f871e6bacc73870cfefa2", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4499"
+    }, 
+    "547f87286bacc73870cff015": {
+        "constituency_2015": "Sevenoaks", 
+        "name": "Alan Bullion", 
+        "party_2015": "Liberal Democrats", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87286bacc73870cff015", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/1337"
+    }, 
+    "547f87486bacc73870cff08b": {
+        "constituency_2015": "Luton South", 
+        "name": "Paul Weston", 
+        "party_2015": "Liberty Great Britain", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87486bacc73870cff08b", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4675"
+    }, 
+    "547f87526bacc73870cff09e": {
+        "constituency_2015": "South West Surrey", 
+        "name": "Dr Louise Irvine", 
+        "party_2015": "National Health Action Party", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87526bacc73870cff09e", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4583"
+    }, 
+    "547f87546bacc73870cff0ab": {
+        "constituency_2015": "Chingford and Woodford Green", 
+        "name": "Kathryn Anderson", 
+        "party_2015": "National Health Action Party", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87546bacc73870cff0ab", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4713"
+    }, 
+    "547f87956bacc73870cff19c": {
+        "constituency_2015": "Clwyd West", 
+        "name": "Marc Jones", 
+        "party_2015": "Plaid Cymru - The Party of Wales", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87956bacc73870cff19c", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4964"
+    }, 
+    "547f87e66bacc73870cff279": {
+        "constituency_2015": "Houghton and Sunderland South", 
+        "name": "Richard Elvin", 
+        "party_2015": "UK Independence Party (UKIP)", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87e66bacc73870cff279", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/3594"
+    }, 
+    "547f87e86bacc73870cff283": {
+        "constituency_2015": "Rotherham", 
+        "name": "Jane Collins", 
+        "party_2015": "UK Independence Party (UKIP)", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87e86bacc73870cff283", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4859"
+    }, 
+    "547f87eb6bacc73870cff2a1": {
+        "constituency_2015": "Cambridge", 
+        "name": "Patrick O'Flynn", 
+        "party_2015": "UK Independence Party (UKIP)", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87eb6bacc73870cff2a1", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4587"
+    }, 
+    "547f87ec6bacc73870cff2aa": {
+        "constituency_2015": "Thurrock", 
+        "name": "Tim Aker", 
+        "party_2015": "UK Independence Party (UKIP)", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87ec6bacc73870cff2aa", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4923"
+    }, 
+    "547f87f06bacc73870cff2ce": {
+        "constituency_2015": "Stockport", 
+        "name": "Steven Woolfe", 
+        "party_2015": "UK Independence Party (UKIP)", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87f06bacc73870cff2ce", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4935"
+    }, 
+    "547f87f46bacc73870cff2f8": {
+        "constituency_2015": "Dudley North", 
+        "name": "Bill Etheridge", 
+        "party_2015": "UK Independence Party (UKIP)", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87f46bacc73870cff2f8", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4797"
+    }, 
+    "547f87fc6bacc73870cff34e": {
+        "constituency_2015": "Romford", 
+        "name": "Gerard Batten", 
+        "party_2015": "UK Independence Party (UKIP)", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87fc6bacc73870cff34e", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/183"
+    }, 
+    "547f87ff6bacc73870cff374": {
+        "constituency_2015": "Eltham", 
+        "name": "Peter Whittle", 
+        "party_2015": "UK Independence Party (UKIP)", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87ff6bacc73870cff374", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4936"
+    }, 
+    "547f88006bacc73870cff377": {
+        "constituency_2015": "South Thanet", 
+        "name": "Nigel Farage", 
+        "party_2015": "UK Independence Party (UKIP)", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f88006bacc73870cff377", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4800"
+    }, 
+    "547f88006bacc73870cff37e": {
+        "constituency_2015": "Folkestone and Hythe", 
+        "name": "Janice Atkinson", 
+        "party_2015": "UK Independence Party (UKIP)", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f88006bacc73870cff37e", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4858"
+    }, 
+    "547f88046bacc73870cff3a3": {
+        "constituency_2015": "Witney", 
+        "name": "Simon Strutt", 
+        "party_2015": "UK Independence Party (UKIP)", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f88046bacc73870cff3a3", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4807"
+    }, 
+    "547f880a6bacc73870cff3d6": {
+        "constituency_2015": "Camborne and Redruth", 
+        "name": "Robert Smith", 
+        "party_2015": "UK Independence Party (UKIP)", 
+        "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f880a6bacc73870cff3d6", 
+        "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4706"
+    }
+}
