@@ -1,426 +1,716 @@
 {
     "53d01037d8d463b739ed960a": {
         "4556": {
-            "constituency_2015": "Cambridge", 
+            "eu2014": {
+                "area": "Eastern", 
+                "party": "Green Party"
+            }, 
+            "ge2015": {
+                "constituency": "Cambridge", 
+                "party": "Green Party"
+            }, 
             "match": true, 
             "name": "Rupert Read", 
-            "party_2015": "Green Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d01037d8d463b739ed960a", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4556"
         }
     }, 
     "53d01038d8d463b739ed961f": {
         "4648": {
-            "constituency_2015": "South Suffolk", 
+            "eu2014": {
+                "area": "Eastern", 
+                "party": "Green Party"
+            }, 
+            "ge2015": {
+                "constituency": "South Suffolk", 
+                "party": "Green Party"
+            }, 
             "match": true, 
             "name": "Robert Lindsay", 
-            "party_2015": "Green Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d01038d8d463b739ed961f", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4648"
         }
     }, 
     "53d0103dd8d463b739ed9644": {
         "1924": {
-            "constituency_2015": "Rushcliffe", 
+            "eu2014": {
+                "area": "East Midlands", 
+                "party": "Green Party"
+            }, 
+            "ge2015": {
+                "constituency": "Rushcliffe", 
+                "party": "Green Party"
+            }, 
             "match": true, 
             "name": "Richard Mallender", 
-            "party_2015": "Green Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d0103dd8d463b739ed9644", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/1924"
         }
     }, 
     "53d0103ed8d463b739ed964e": {
         "4632": {
-            "constituency_2015": "Liverpool, Wavertree", 
+            "eu2014": {
+                "area": "North West", 
+                "party": "Green Party"
+            }, 
+            "ge2015": {
+                "constituency": "Liverpool, Wavertree", 
+                "party": "Green Party"
+            }, 
             "match": true, 
             "name": "Peter Cranie", 
-            "party_2015": "Green Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d0103ed8d463b739ed964e", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4632"
         }
     }, 
     "53d0103fd8d463b739ed9656": {
         "4635": {
-            "constituency_2015": "Manchester, Gorton", 
+            "eu2014": {
+                "area": "North West", 
+                "party": "Green Party"
+            }, 
+            "ge2015": {
+                "constituency": "Manchester, Gorton", 
+                "party": "Green Party"
+            }, 
             "match": true, 
             "name": "Laura Bannister", 
-            "party_2015": "Green Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d0103fd8d463b739ed9656", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4635"
         }
     }, 
     "53d0103fd8d463b739ed9658": {
         "4641": {
-            "constituency_2015": "Workington", 
+            "eu2014": {
+                "area": "North West", 
+                "party": "Green Party"
+            }, 
+            "ge2015": {
+                "constituency": "Workington", 
+                "party": "Green Party"
+            }, 
             "match": true, 
             "name": "Jill Perry", 
-            "party_2015": "Green Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d0103fd8d463b739ed9658", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4641"
         }
     }, 
     "53d01042d8d463b739ed9672": {
         "4870": {
-            "constituency_2015": "Brent Central", 
+            "eu2014": {
+                "area": "London", 
+                "party": "Green Party"
+            }, 
+            "ge2015": {
+                "constituency": "Brent Central", 
+                "party": "Green Party"
+            }, 
             "match": true, 
             "name": "Shahrar Ali", 
-            "party_2015": "Green Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d01042d8d463b739ed9672", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4870"
         }
     }, 
     "53d01045d8d463b739ed9681": {
         "4808": {
-            "constituency_2015": "Camberwell and Peckham", 
+            "eu2014": {
+                "area": "London", 
+                "party": "Green Party"
+            }, 
+            "ge2015": {
+                "constituency": "Camberwell and Peckham", 
+                "party": "Green Party"
+            }, 
             "match": true, 
             "name": "Amelia Womack", 
-            "party_2015": "Green Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d01045d8d463b739ed9681", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4808"
         }
     }, 
     "53d01045d8d463b739ed9686": {
         "3762": {
-            "constituency_2015": "Newport West", 
+            "eu2014": {
+                "area": "Wales", 
+                "party": "Green Party"
+            }, 
+            "ge2015": {
+                "constituency": "Newport West", 
+                "party": "Green Party"
+            }, 
             "match": true, 
             "name": "Pippa Bartolotti", 
-            "party_2015": "Green Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d01045d8d463b739ed9686", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/3762"
         }
     }, 
     "53d0104bd8d463b739ed96be": {
         "4850": {
-            "constituency_2015": "Canterbury", 
+            "eu2014": {
+                "area": "South East", 
+                "party": "Green Party"
+            }, 
+            "ge2015": {
+                "constituency": "Canterbury", 
+                "party": "Green Party"
+            }, 
             "match": true, 
             "name": "Stuart Jeffrey", 
-            "party_2015": "Green Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/53d0104bd8d463b739ed96be", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4850"
         }
     }, 
     "547f80a76bacc73870cfdfdc": {
         "1072": {
-            "constituency_2015": "Shipley", 
+            "eu2014": {
+                "area": "Yorkshire and the Humber", 
+                "party": "Green Party"
+            }, 
+            "ge2015": {
+                "constituency": "Shipley", 
+                "party": "Green Party"
+            }, 
             "match": true, 
             "name": "Kevin Warnes", 
-            "party_2015": "Green Party", 
             "yournextmep_url": "http://pmocl.popit.mysociety.org/api/v0.1/persons/547f80a76bacc73870cfdfdc", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/1072"
         }
     }, 
     "547f81516bacc73870cfe0b8": {
         "4986": {
-            "constituency_2015": "Harrogate and Knaresborough", 
+            "eu2014": {
+                "area": "Yorkshire and the Humber", 
+                "party": "Green Party"
+            }, 
+            "ge2015": {
+                "constituency": "Harrogate and Knaresborough", 
+                "party": "Green Party"
+            }, 
             "match": true, 
             "name": "Shan Oakes", 
-            "party_2015": "Green Party", 
             "yournextmep_url": "http://pmocl.popit.mysociety.org/api/v0.1/persons/547f81516bacc73870cfe0b8", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4986"
         }
     }, 
     "547f85206bacc73870cfe7dd": {
         "3921": {
-            "constituency_2015": "Wakefield", 
+            "eu2014": {
+                "area": "South West", 
+                "party": "An Independence From Europe"
+            }, 
+            "ge2015": {
+                "constituency": "Wakefield", 
+                "party": "Liberal Democrats"
+            }, 
             "match": false, 
             "name": "David Smith", 
-            "party_2015": "Liberal Democrats", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f85206bacc73870cfe7dd", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/3921"
         }
     }, 
+    "547f858a6bacc73870cfe995": {
+        "5085": {
+            "eu2014": {
+                "area": "London", 
+                "party": "British National Party"
+            }, 
+            "ge2015": {
+                "constituency": "Witham", 
+                "party": "Labour Party"
+            }, 
+            "match": false, 
+            "name": "John Clarke", 
+            "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f858a6bacc73870cfe995", 
+            "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/5085"
+        }
+    }, 
     "547f85d26bacc73870cfea07": {
         "4900": {
-            "constituency_2015": "Gedling", 
+            "eu2014": {
+                "area": "Yorkshire and the Humber", 
+                "party": "Conservative Party"
+            }, 
+            "ge2015": {
+                "constituency": "Gedling", 
+                "party": "Conservative Party"
+            }, 
             "match": true, 
             "name": "Carolyn Abbott", 
-            "party_2015": "Conservative Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f85d26bacc73870cfea07", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4900"
         }
     }, 
     "547f85da6bacc73870cfea6b": {
         "4272": {
-            "constituency_2015": "Bracknell", 
+            "eu2014": {
+                "area": "North West", 
+                "party": "Conservative Party"
+            }, 
+            "ge2015": {
+                "constituency": "Bracknell", 
+                "party": "Labour Party"
+            }, 
             "match": false, 
             "name": "James Walsh", 
-            "party_2015": "Labour Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f85da6bacc73870cfea6b", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4272"
         }
     }, 
     "547f85e06bacc73870cfea9f": {
         "524": {
-            "constituency_2015": "Edinburgh North and Leith", 
+            "eu2014": {
+                "area": "Scotland", 
+                "party": "Conservative Party"
+            }, 
+            "ge2015": {
+                "constituency": "Edinburgh North and Leith", 
+                "party": "Conservative Party"
+            }, 
             "match": true, 
             "name": "Iain McGill", 
-            "party_2015": "Conservative Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f85e06bacc73870cfea9f", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/524"
         }
     }, 
     "547f86e06bacc73870cfed8c": {
         "4431": {
-            "constituency_2015": "South Suffolk", 
+            "eu2014": {
+                "area": "Eastern", 
+                "party": "Labour Party"
+            }, 
+            "ge2015": {
+                "constituency": "South Suffolk", 
+                "party": "Labour Party"
+            }, 
             "match": true, 
             "name": "Jane Basham", 
-            "party_2015": "Labour Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f86e06bacc73870cfed8c", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4431"
         }
     }, 
     "547f86f96bacc73870cfeeaa": {
         "4564": {
-            "constituency_2015": "Neath", 
+            "eu2014": {
+                "area": "Wales", 
+                "party": "Labour Party"
+            }, 
+            "ge2015": {
+                "constituency": "Neath", 
+                "party": "Labour Party"
+            }, 
             "match": true, 
             "name": "Christina Rees", 
-            "party_2015": "Labour Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f86f96bacc73870cfeeaa", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4564"
         }
     }, 
     "547f87106bacc73870cfeef8": {
         "4897": {
-            "constituency_2015": "Sheffield Central", 
+            "eu2014": {
+                "area": "Yorkshire and the Humber", 
+                "party": "Liberal Democrats"
+            }, 
+            "ge2015": {
+                "constituency": "Sheffield Central", 
+                "party": "Liberal Democrats"
+            }, 
             "match": true, 
             "name": "Joe Otten", 
-            "party_2015": "Liberal Democrats", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87106bacc73870cfeef8", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4897"
         }
     }, 
     "547f87106bacc73870cfeefe": {
         "4032": {
-            "constituency_2015": "Richmond (Yorks)", 
+            "eu2014": {
+                "area": "Yorkshire and the Humber", 
+                "party": "Liberal Democrats"
+            }, 
+            "ge2015": {
+                "constituency": "Richmond (Yorks)", 
+                "party": "Liberal Democrats"
+            }, 
             "match": true, 
             "name": "Chris Foote-Wood", 
-            "party_2015": "Liberal Democrats", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87106bacc73870cfeefe", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4032"
         }
     }, 
     "547f87116bacc73870cfef09": {
         "992": {
-            "constituency_2015": "Leeds North East", 
+            "eu2014": {
+                "area": "Yorkshire and the Humber", 
+                "party": "Liberal Democrats"
+            }, 
+            "ge2015": {
+                "constituency": "Leeds North East", 
+                "party": "Liberal Democrats"
+            }, 
             "match": true, 
             "name": "Aqila Choudhry", 
-            "party_2015": "Liberal Democrats", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87116bacc73870cfef09", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/992"
         }
     }, 
     "547f87166bacc73870cfef40": {
         "4166": {
-            "constituency_2015": "Brecon and Radnorshire", 
+            "eu2014": {
+                "area": "North West", 
+                "party": "Liberal Democrats"
+            }, 
+            "ge2015": {
+                "constituency": "Brecon and Radnorshire", 
+                "party": "Conservative Party"
+            }, 
             "match": false, 
             "name": "Chris Davies", 
-            "party_2015": "Conservative Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87166bacc73870cfef40", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4166"
         }
     }, 
     "547f87186bacc73870cfef58": {
         "1432": {
-            "constituency_2015": "Altrincham and Sale West", 
+            "eu2014": {
+                "area": "North West", 
+                "party": "Liberal Democrats"
+            }, 
+            "ge2015": {
+                "constituency": "Altrincham and Sale West", 
+                "party": "Liberal Democrats"
+            }, 
             "match": true, 
             "name": "Jane Brophy", 
-            "party_2015": "Liberal Democrats", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87186bacc73870cfef58", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/1432"
         }
     }, 
+    "547f871b6bacc73870cfef80": {
+        "5093": {
+            "eu2014": {
+                "area": "West Midlands", 
+                "party": "Liberal Democrats"
+            }, 
+            "ge2015": {
+                "constituency": "Shrewsbury and Atcham", 
+                "party": "Liberal Democrats"
+            }, 
+            "match": true, 
+            "name": "Christine Tinker", 
+            "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f871b6bacc73870cfef80", 
+            "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/5093"
+        }
+    }, 
     "547f871e6bacc73870cfefa2": {
         "4499": {
-            "constituency_2015": "Gordon", 
+            "eu2014": {
+                "area": "Scotland", 
+                "party": "Liberal Democrats"
+            }, 
+            "ge2015": {
+                "constituency": "Gordon", 
+                "party": "Liberal Democrats"
+            }, 
             "match": true, 
             "name": "Christine Jardine", 
-            "party_2015": "Liberal Democrats", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f871e6bacc73870cfefa2", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4499"
         }
     }, 
     "547f87286bacc73870cff015": {
         "1337": {
-            "constituency_2015": "Sevenoaks", 
+            "eu2014": {
+                "area": "South East", 
+                "party": "Liberal Democrats"
+            }, 
+            "ge2015": {
+                "constituency": "Sevenoaks", 
+                "party": "Liberal Democrats"
+            }, 
             "match": true, 
             "name": "Alan Bullion", 
-            "party_2015": "Liberal Democrats", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87286bacc73870cff015", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/1337"
         }
     }, 
     "547f87486bacc73870cff08b": {
         "4675": {
-            "constituency_2015": "Luton South", 
+            "eu2014": {
+                "area": "South East", 
+                "party": "Liberty GB"
+            }, 
+            "ge2015": {
+                "constituency": "Luton South", 
+                "party": "Liberty Great Britain"
+            }, 
             "match": true, 
             "name": "Paul Weston", 
-            "party_2015": "Liberty Great Britain", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87486bacc73870cff08b", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4675"
         }
     }, 
     "547f87526bacc73870cff09e": {
         "4583": {
-            "constituency_2015": "South West Surrey", 
+            "eu2014": {
+                "area": "London", 
+                "party": "National Health Action Party"
+            }, 
+            "ge2015": {
+                "constituency": "South West Surrey", 
+                "party": "National Health Action Party"
+            }, 
             "match": true, 
             "name": "Dr Louise Irvine", 
-            "party_2015": "National Health Action Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87526bacc73870cff09e", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4583"
         }
     }, 
     "547f87546bacc73870cff0ab": {
         "4713": {
-            "constituency_2015": "Chingford and Woodford Green", 
+            "eu2014": {
+                "area": "London", 
+                "party": "National Health Action Party"
+            }, 
+            "ge2015": {
+                "constituency": "Chingford and Woodford Green", 
+                "party": "National Health Action Party"
+            }, 
             "match": true, 
             "name": "Kathryn Anderson", 
-            "party_2015": "National Health Action Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87546bacc73870cff0ab", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4713"
         }
     }, 
     "547f87956bacc73870cff19c": {
         "4845": {
-            "constituency_2015": "Great Grimsby", 
+            "eu2014": {
+                "area": "Wales", 
+                "party": "Plaid Cymru"
+            }, 
+            "ge2015": {
+                "constituency": "Great Grimsby", 
+                "party": "Conservative Party"
+            }, 
             "match": false, 
             "name": "Marc Jones", 
-            "party_2015": "Conservative Party", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87956bacc73870cff19c", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4845"
         }, 
         "4964": {
-            "constituency_2015": "Clwyd West", 
+            "eu2014": {
+                "area": "Wales", 
+                "party": "Plaid Cymru"
+            }, 
+            "ge2015": {
+                "constituency": "Clwyd West", 
+                "party": "Plaid Cymru - The Party of Wales"
+            }, 
             "match": true, 
             "name": "Marc Jones", 
-            "party_2015": "Plaid Cymru - The Party of Wales", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87956bacc73870cff19c", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4964"
         }
     }, 
     "547f87e66bacc73870cff279": {
         "3594": {
-            "constituency_2015": "Houghton and Sunderland South", 
+            "eu2014": {
+                "area": "North East", 
+                "party": "UKIP"
+            }, 
+            "ge2015": {
+                "constituency": "Houghton and Sunderland South", 
+                "party": "UK Independence Party (UKIP)"
+            }, 
             "match": true, 
             "name": "Richard Elvin", 
-            "party_2015": "UK Independence Party (UKIP)", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87e66bacc73870cff279", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/3594"
         }
     }, 
     "547f87e86bacc73870cff283": {
         "4859": {
-            "constituency_2015": "Rotherham", 
+            "eu2014": {
+                "area": "Yorkshire and the Humber", 
+                "party": "UKIP"
+            }, 
+            "ge2015": {
+                "constituency": "Rotherham", 
+                "party": "UK Independence Party (UKIP)"
+            }, 
             "match": true, 
             "name": "Jane Collins", 
-            "party_2015": "UK Independence Party (UKIP)", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87e86bacc73870cff283", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4859"
         }
     }, 
     "547f87eb6bacc73870cff2a1": {
         "4587": {
-            "constituency_2015": "Cambridge", 
+            "eu2014": {
+                "area": "Eastern", 
+                "party": "UKIP"
+            }, 
+            "ge2015": {
+                "constituency": "Cambridge", 
+                "party": "UK Independence Party (UKIP)"
+            }, 
             "match": true, 
             "name": "Patrick O'Flynn", 
-            "party_2015": "UK Independence Party (UKIP)", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87eb6bacc73870cff2a1", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4587"
         }
     }, 
     "547f87ec6bacc73870cff2aa": {
         "4923": {
-            "constituency_2015": "Thurrock", 
+            "eu2014": {
+                "area": "Eastern", 
+                "party": "UKIP"
+            }, 
+            "ge2015": {
+                "constituency": "Thurrock", 
+                "party": "UK Independence Party (UKIP)"
+            }, 
             "match": true, 
             "name": "Tim Aker", 
-            "party_2015": "UK Independence Party (UKIP)", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87ec6bacc73870cff2aa", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4923"
         }
     }, 
     "547f87f06bacc73870cff2ce": {
         "4935": {
-            "constituency_2015": "Stockport", 
+            "eu2014": {
+                "area": "North West", 
+                "party": "UKIP"
+            }, 
+            "ge2015": {
+                "constituency": "Stockport", 
+                "party": "UK Independence Party (UKIP)"
+            }, 
             "match": true, 
             "name": "Steven Woolfe", 
-            "party_2015": "UK Independence Party (UKIP)", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87f06bacc73870cff2ce", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4935"
         }
     }, 
     "547f87f46bacc73870cff2f8": {
         "4797": {
-            "constituency_2015": "Dudley North", 
+            "eu2014": {
+                "area": "West Midlands", 
+                "party": "UKIP"
+            }, 
+            "ge2015": {
+                "constituency": "Dudley North", 
+                "party": "UK Independence Party (UKIP)"
+            }, 
             "match": true, 
             "name": "Bill Etheridge", 
-            "party_2015": "UK Independence Party (UKIP)", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87f46bacc73870cff2f8", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4797"
         }
     }, 
     "547f87fc6bacc73870cff34e": {
         "183": {
-            "constituency_2015": "Romford", 
+            "eu2014": {
+                "area": "London", 
+                "party": "UKIP"
+            }, 
+            "ge2015": {
+                "constituency": "Romford", 
+                "party": "UK Independence Party (UKIP)"
+            }, 
             "match": true, 
             "name": "Gerard Batten", 
-            "party_2015": "UK Independence Party (UKIP)", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87fc6bacc73870cff34e", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/183"
         }
     }, 
     "547f87ff6bacc73870cff374": {
         "4936": {
-            "constituency_2015": "Eltham", 
+            "eu2014": {
+                "area": "London", 
+                "party": "UKIP"
+            }, 
+            "ge2015": {
+                "constituency": "Eltham", 
+                "party": "UK Independence Party (UKIP)"
+            }, 
             "match": true, 
             "name": "Peter Whittle", 
-            "party_2015": "UK Independence Party (UKIP)", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87ff6bacc73870cff374", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4936"
         }
     }, 
     "547f88006bacc73870cff377": {
         "4800": {
-            "constituency_2015": "South Thanet", 
+            "eu2014": {
+                "area": "South East", 
+                "party": "UKIP"
+            }, 
+            "ge2015": {
+                "constituency": "South Thanet", 
+                "party": "UK Independence Party (UKIP)"
+            }, 
             "match": true, 
             "name": "Nigel Farage", 
-            "party_2015": "UK Independence Party (UKIP)", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f88006bacc73870cff377", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4800"
         }
     }, 
     "547f88006bacc73870cff37e": {
         "4858": {
-            "constituency_2015": "Folkestone and Hythe", 
+            "eu2014": {
+                "area": "South East", 
+                "party": "UKIP"
+            }, 
+            "ge2015": {
+                "constituency": "Folkestone and Hythe", 
+                "party": "UK Independence Party (UKIP)"
+            }, 
             "match": true, 
             "name": "Janice Atkinson", 
-            "party_2015": "UK Independence Party (UKIP)", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f88006bacc73870cff37e", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4858"
         }
     }, 
     "547f88046bacc73870cff3a3": {
         "4807": {
-            "constituency_2015": "Witney", 
+            "eu2014": {
+                "area": "South East", 
+                "party": "UKIP"
+            }, 
+            "ge2015": {
+                "constituency": "Witney", 
+                "party": "UK Independence Party (UKIP)"
+            }, 
             "match": true, 
             "name": "Simon Strutt", 
-            "party_2015": "UK Independence Party (UKIP)", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f88046bacc73870cff3a3", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4807"
         }
     }, 
     "547f880a6bacc73870cff3d6": {
         "3967": {
-            "constituency_2015": "West Aberdeenshire and Kincardine", 
+            "eu2014": {
+                "area": "South West", 
+                "party": "UKIP"
+            }, 
+            "ge2015": {
+                "constituency": "West Aberdeenshire and Kincardine", 
+                "party": "Liberal Democrats"
+            }, 
             "match": false, 
             "name": "Robert Smith", 
-            "party_2015": "Liberal Democrats", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f880a6bacc73870cff3d6", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/3967"
         }, 
         "4706": {
-            "constituency_2015": "Camborne and Redruth", 
+            "eu2014": {
+                "area": "South West", 
+                "party": "UKIP"
+            }, 
+            "ge2015": {
+                "constituency": "Camborne and Redruth", 
+                "party": "UK Independence Party (UKIP)"
+            }, 
             "match": true, 
             "name": "Robert Smith", 
-            "party_2015": "UK Independence Party (UKIP)", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f880a6bacc73870cff3d6", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/4706"
         }
