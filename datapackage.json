@@ -6,7 +6,9 @@
                "title":"CC0 1.0 Universal - No rights reserved"}],
  "resources":[{"url": "data/matches.json",
                "name": "Matching candidates",
-               "mediatype": "",
+               "mediatype": "application/json",
+               "format": "json",
+               "encoding": "utf-8",
                "description": "Matching EU2014 and GE2015 candidates"}],
 "maintainers":[ {
     "name": "Tim Green",
