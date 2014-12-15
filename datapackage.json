@@ -4,8 +4,12 @@
  "description": "Candidates who we think are the same in the 2014 EU Parliament election and the 2015 Westminster General Election",
  "licenses": [{"url":"https://creativecommons.org/publicdomain/zero/1.0/",
                "title":"CC0 1.0 Universal - No rights reserved"}],
- "resources":[{"url": "https://raw.githubusercontent.com/tfgg/yournextmp-mep-match/master/data/matches.json",
+ "resources":[{"url": "data/matches.json",
                "name": "Matching candidates",
                "mediatype": "",
-               "description": "Matching EU2014 and GE2015 candidates"}]
+               "description": "Matching EU2014 and GE2015 candidates"}],
+"maintainers":[ {
+    "name": "Tim Green",
+    "email": "timothy.green@gmail.com"
+  }],
 }
