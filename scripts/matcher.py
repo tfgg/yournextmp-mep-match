@@ -95,3 +95,4 @@ for i, people_page in enumerate(get_page(start_page, people_api_url1)):
 
         write_data(confirmed_matches, 'data/matches.json')
 
+print "FINISHED"
