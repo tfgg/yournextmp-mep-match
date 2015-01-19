@@ -60,10 +60,10 @@ for i, people_page in enumerate(get_page(start_page, people_api_url1)):
         print "{} :: {}".format(person['name'],
                                 'http://yournextmep.com/candidates/eu2014/' + person['identifiers'][0]['identifier'])
 
-        print "  {} - {}, {}".format(person_match['name'],
-                                     person_match['party_memberships']['2015']['name'],
-                                     person_match['standing_in']['2015']['name'],
-                                     'http://yournextmp.com/person/{}'.format(person_match['id']))
+        print u"  {} - {}, {}".format(person_match['name'],
+                                      person_match['party_memberships']['2015']['name'],
+                                      person_match['standing_in']['2015']['name'],
+                                      'http://yournextmp.com/person/{}'.format(person_match['id']))
 
         is_match = person['id'] in confirmed_matches and \
                    person_match['id'] in confirmed_matches[person['id']] and \

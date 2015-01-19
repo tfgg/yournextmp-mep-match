@@ -1054,6 +1054,20 @@
         }
     }, 
     "547f87fd6bacc73870cff35b": {
+        "52": {
+            "eu2014": {
+                "area": "London", 
+                "party": "UKIP"
+            }, 
+            "ge2015": {
+                "constituency": "Dartford", 
+                "party": "UK Independence Party (UKIP)"
+            }, 
+            "match": true, 
+            "name": "Elizabeth Jones", 
+            "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f87fd6bacc73870cff35b", 
+            "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/52"
+        }, 
         "5253": {
             "eu2014": {
                 "area": "London", 
@@ -1211,6 +1225,38 @@
             "name": "Barry Cooper", 
             "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f88056bacc73870cff3a6", 
             "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/5244"
+        }
+    }, 
+    "547f88066bacc73870cff3b1": {
+        "5574": {
+            "eu2014": {
+                "area": "Wales", 
+                "party": "UKIP"
+            }, 
+            "ge2015": {
+                "constituency": "Ynys M\u00f4n", 
+                "party": "UK Independence Party (UKIP)"
+            }, 
+            "match": true, 
+            "name": "Nathan Gill", 
+            "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f88066bacc73870cff3b1", 
+            "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/5574"
+        }
+    }, 
+    "547f88076bacc73870cff3ba": {
+        "5570": {
+            "eu2014": {
+                "area": "Wales", 
+                "party": "UKIP"
+            }, 
+            "ge2015": {
+                "constituency": "Bridgend", 
+                "party": "UK Independence Party (UKIP)"
+            }, 
+            "match": true, 
+            "name": "Caroline Jones", 
+            "yournextmep_url": "http://yournextmep.popit.mysociety.org/api/v0.1/persons/547f88076bacc73870cff3ba", 
+            "yournextmp_url": "http://yournextmp.popit.mysociety.org/api/v0.1/persons/5570"
         }
     }, 
     "547f88086bacc73870cff3be": {
